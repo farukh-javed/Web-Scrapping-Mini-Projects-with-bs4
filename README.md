@@ -13,7 +13,7 @@ This repository contains three Jupyter Notebook projects focused on web scraping
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/farukh-javed/Web-scraping-mini-projects.git
+   git clone https://github.com/farukh-javed/Web-Scrapping-Mini-Projects-with-bs4.git
    ```
 
 2. **Install dependencies**:
